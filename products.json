@@ -1,0 +1,26 @@
+{
+  "fantasma": {
+    "img": "fantasma.jpg",
+    "descr": "Fantasma",
+    "price": "9,99€",
+    "model3d": "fantasma.glb"
+  },
+  "teschio": {
+    "img": "teschio.jpg",
+    "descr": "Teschio",
+    "price": "9,99€",
+    "model3d": "teschio.glb"
+  },
+  "papera": {
+    "img": "papera.jpg",
+    "descr": "Papera",
+    "price": "9,99€",
+    "model3d": ""
+  },
+  "perry": {
+    "img": "perry.jpg",
+    "descr": "perry",
+    "price": "9,99€",
+    "model3d": "perry.glb"
+  }
+}

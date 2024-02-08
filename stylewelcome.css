@@ -1,0 +1,19 @@
+body {
+            margin: 0;
+            padding: 0;
+            background: #1d1a2f; /* Set your desired background color or image */
+            font-family: Arial, sans-serif; /* Choose a suitable font */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* 100% of the viewport height */
+	    color:white;
+}
+
+.content-container {
+            text-align: center; /* Center the content horizontally */
+            background: #734f9a; /* Set your content background color */
+            padding: 20px;
+            border-radius: 10px; /* Optional: add rounded corners to the content */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: add a subtle box shadow */
+}

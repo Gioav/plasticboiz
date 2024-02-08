@@ -1,0 +1,78 @@
+body {
+            margin: 0;
+            padding: 0;
+            background: #1d1a2f; /* Set your desired background color or image */
+            font-family: Arial, sans-serif; /* Choose a suitable font */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* 100% of the viewport height */
+	    color:white;
+}
+
+.content-container {
+            text-align: center; /* Center the content horizontally */
+            background: #734f9a; /* Set your content background color */
+            padding: 20px;
+            border-radius: 10px; /* Optional: add rounded corners to the content */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: add a subtle box shadow */
+}
+
+        /* Style for text input */
+input[type="text"] {
+            padding: 10px;
+            width: 200px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+	    border-color: black;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+	    background-color:#8bd450 !important;
+}
+
+#address{
+	    margin-left: 10px;
+
+}
+
+
+input[type="email"] {
+            padding: 10px;
+            width: 200px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+	    border-color: black;
+            margin-bottom: 10px;
+	    margin-left: 32px;
+            box-sizing: border-box;
+	    background-color:#8bd450 !important;
+}
+
+input[type="password"] {
+            padding: 10px;
+            width: 200px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+	    border-color: black;
+	    margin-left: 1px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+	    background-color:#8bd450 !important;
+}
+
+
+
+        /* Style for submit button */
+input[type="submit"] {
+            padding: 10px 20px;
+            background-color: #4CAF50; /* Green background color */
+            color: #fff; /* White text color */
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+}
+
+        /* Hover effect for submit button */
+input[type="submit"]:hover {
+            background-color: #45a049; /* Darker green on hover */
+}
